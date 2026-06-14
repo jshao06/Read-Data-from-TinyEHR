@@ -1,2 +1,6 @@
 # Read-Data-from-TinyEHR
-Build a Local SQLite Database of TinyEHR and read data to Pandas DataFrame
+This project is used to build a Local SQLite Database using TinyEHR and then read data to Pandas DataFrames.
+## Technologies
+- TinyEHR
+- sqlite3
+- pandas
